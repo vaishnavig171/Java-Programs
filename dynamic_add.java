@@ -1,6 +1,7 @@
 /* In this program the output is combined together 
 i.e. if input of i is 10 input of j is 10 , it combines both 
-and give o/p 1010 as the datatype of i and j is String by default */
+and give o/p 1010 as the datatype of i and j is String by default.
+This problem is solved using Wrapper Class.*/
 import java.io.*;
 
 public class dynamic_add {
